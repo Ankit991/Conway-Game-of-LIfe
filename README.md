@@ -1,4 +1,4 @@
-# Conway Game of LIfe
+# Conway's Game of LIfe
 
 
  How to run this project in unity 
