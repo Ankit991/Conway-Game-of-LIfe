@@ -17,7 +17,7 @@
   How To Edit 
 
  Open play.cs and change row and column
- Keep in mind it is running in Unity and loading sprites, so 60*60 is 2500 sprites.
+ Keep in mind it is running in Unity and loading sprites, so 60*60 is 3600 sprites.
  On a less powerful computer, you can try out 10x10 or 20x20.
  And alway set camera size half of column size;
    
